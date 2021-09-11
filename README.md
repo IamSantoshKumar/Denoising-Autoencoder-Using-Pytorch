@@ -1,1 +1,1 @@
-# uDenoising-Autoencoder-Using-Pytorch
+# Denoising-Autoencoder-Using-Pytorch
